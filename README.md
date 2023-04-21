@@ -9,5 +9,5 @@ There are methods which you can install jenkins for practicing. I prefer Docker 
       ````console
       docker run -p 8080:8080 jenkins/jenkins
       ````
-   - once installation is done you can access this throught localhost:8080
+   - once installation is done you can access this through localhost:8080
    
