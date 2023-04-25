@@ -1,8 +1,8 @@
-# Installation
+## Installation
 
 There are various methods available to install Jenkins for practicing, but using Docker is highly recommended as it allows you to run multiple containers on your local machine.
 
-## Installation with Docker
+### Installation with Docker
 
 To get started with Docker, follow the below steps:
 
